@@ -39,5 +39,5 @@
 <a href="https://wa.me/6283832515321"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
 
 ### 📌 &nbsp; My Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=aflah201&show_icons=true&theme=radical&include_all_commits=true&hide=stars"/>&nbsp;
+<img style="250px" src="https://github-readme-stats.vercel.app/api?username=aflah201&show_icons=true&theme=radical&include_all_commits=true&hide=stars"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah201&layout=compact&show_icons=true&theme=radical&&langs_count=6"/>
